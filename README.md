@@ -20,7 +20,7 @@
 
 ### 1. **Clone the Repository | استنساخ المستودع:**
 ```bash
-git clone https://github.com/m9ebah/Snapchat-Scraper.git
+git clone https://github.com/Nawal0512/Snapchat-Scraper.git
 ```
 
 ### 2. **Navigate to the Directory | الانتقال إلى المجلد:**
